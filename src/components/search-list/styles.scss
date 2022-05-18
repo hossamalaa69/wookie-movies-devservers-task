@@ -1,0 +1,20 @@
+.search-list-div{
+    margin-left: 5%;
+    margin-right: 5%;
+
+    .search-header{
+        color: #494949;
+        margin-bottom: 0;
+        margin-top: 7vh;
+    }
+
+    .movies-search-list {
+        margin-top: 4vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 25px;
+    }      
+}
